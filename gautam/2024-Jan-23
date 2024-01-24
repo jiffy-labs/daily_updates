@@ -1,0 +1,10 @@
+- Went about researching Milestone 2 and 3 https://www.notion.so/adityaagarwal/Opinionated-web3-AA-library-6c14e3fe7a73462e8e76a66acdb4fdd8
+    - Milestone 2 , enabling and disabling module are safe contract functions that we can pass to any user operation and should be simple to add it to the library. We just need the safe contract ABI.
+    - Milestone 3 will require an offchain service to collect the signatures, for the current transactions it is handled by https://www.notion.so/adityaagarwal/Enabling-Safe-Multi-signature-User-Operations-0ef6605e2182437b9a566ec16a55b7b5
+    - This will also require frontend changes to handle it, possibly a library to handle it similar to https://github.com/safe-global/safe-core-sdk
+    - TODO: Research if the current transaction service can be repurposed to send user operation. 
+    - Learning: Currently no SDK provides functionality to send multi signature user operations. 
+
+- AWS got back with another questionaire that needs to be filled out. 
+    - TODO: Fill out the questions and revert. 
+
